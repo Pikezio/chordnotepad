@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Chord Notepad</string>
+    <string name="create_new">create new</string>
+    <string name="chord_notepad">chord notepad</string>
+    <string name="settings">settings</string>
+    <string name="my_notes">my notes</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="done">done</string>
+    <string name="title">title</string>
+    <string name="sharp">\u266F</string>
+    <string name="flat">\u266D</string>
+    <string name="minor">m</string>
+    <string name="seven">7</string>
+    <string name="current_chord">current chord</string>
+    <string name="add">add</string>
+    <string name="next">next</string>
+    <string name="del">del</string>
+    <string name="sec">sec</string>
+    <string name="bar">bar</string>
+    <string name="preview_dark_mode">Preview Dark Mode</string>
+    <string name="cm7">Cm7</string>
+    <string name="font_size">Font Size:</string>
+</resources>
